@@ -1,0 +1,44 @@
+{
+  "profesores": [
+    {
+      "name": "Julian",
+      "last name": "Ramirez",
+      "profession": "Ingenieria de sistemas",
+      "id": "d86f"
+    },
+    {
+      "id": "8a46",
+      "name": "Santiago",
+      "last name": "Perez",
+      "profesion": "Ingenieria quimica"
+    }
+  ],
+  "alumnos": [
+    {
+      "name": "Yonny",
+      "lastname": "Ospina",
+      "semester": "6",
+      "id": "8ba5"
+    }
+  ],
+  "asignaturas": [
+    {
+      "name": "Sistemas Operativos",
+      "semester": 6,
+      "credits": 3,
+      "id": "a273"
+    },
+    {
+      "name": "Metodologia de la investigacion",
+      "semester": 6,
+      "credits": 3,
+      "id": "f1c9"
+    },
+    {
+      "name": "Ecuaciones diferenciales",
+      "semester": 6,
+      "credits": 3,
+      "id": "b89c"
+    }
+  ]
+}

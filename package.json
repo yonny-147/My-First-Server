@@ -1,0 +1,14 @@
+{
+  "name": "p-json-server",
+  "version": "0.0.1",
+  "description": "Mi primer servidor",
+  "main": "app.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "author": "Yonny Ospina",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.23"
+  }
+}
